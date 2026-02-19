@@ -1,2 +1,5 @@
 exported_data
 .env
+.ipynb_checkpoints/
+env/
+
